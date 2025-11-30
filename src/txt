@@ -1,0 +1,131 @@
+<li className="nav-item">
+                <Link className="nav-link active" aria-current="page" to="#">
+                  Home
+                </Link>
+              </li>
+              <li className="nav-item">
+                <Link className="nav-link active" aria-current="page" to="#">
+                  Cricket
+                </Link>
+              </li>
+              <li className="nav-item">
+                <Link className="nav-link active" aria-current="page" to="#">
+                  Breaking News
+                </Link>
+              </li>
+              <li className="nav-item">
+                <Link className="nav-link active" aria-current="page" to="#">
+                  Politics
+                </Link>
+              </li>
+              <li className="nav-item">
+                <Link className="nav-link active" aria-current="page" to="#">
+                  Business & Economy
+                </Link>
+              </li>
+              <li className="nav-item">
+                <Link className="nav-link active" aria-current="page" to="#">
+                  Sports
+                </Link>
+              </li>
+              <li className="nav-item">
+                <Link className="nav-link active" aria-current="page" to="#">
+                  Entertainment
+                </Link>
+              </li>
+              <li className="nav-item">
+                <Link className="nav-link active" aria-current="page" to="#">
+                  Technology
+                </Link>
+              </li>
+              <li className="nav-item">
+                <Link className="nav-link active" aria-current="page" to="#">
+                  Education
+                </Link>
+              </li>
+
+              <li className="nav-item dropdown">
+                <a
+                  className="nav-link dropdown-toggle"
+                  href="#"
+                  role="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                >
+                  Languages
+                </a>
+                <ul className="dropdown-menu">
+                  <li>
+                    <Link className="dropdown-item" to="#">
+                      Hindi
+                    </Link>
+                  </li>
+                  <li>
+                    <Link className="dropdown-item" to="#">
+                      English
+                    </Link>
+                  </li>
+                  <li>
+                    <Link className="dropdown-item" to="#">
+                      Gujrati
+                    </Link>
+                  </li>
+                  <li>
+                    <Link className="dropdown-item" to="#">
+                      Panjabi
+                    </Link>
+                  </li>
+                  <li>
+                    <Link className="dropdown-item" to="#">
+                      Bengali
+                    </Link>
+                  </li>
+                  <li>
+                    <Link className="dropdown-item" to="#">
+                     
+                      French
+                    </Link>
+                  </li>
+                  <li>
+                    <Link className="dropdown-item" to="#">
+                     
+                      German
+                    </Link>
+                  </li>
+                  <li>
+                    <Link className="dropdown-item" to="#">
+                     
+                      Japanese
+                    </Link>
+                  </li>
+                  <li>
+                    <Link className="dropdown-item" to="#">
+                      Urdu
+                    </Link>
+                  </li>
+                  <li>
+                    <Link className="dropdown-item" to="#">
+                      Spanish{" "}
+                    </Link>
+                  </li>
+                  <li>
+                    <Link className="dropdown-item" to="#">
+                      Tamil{" "}
+                    </Link>
+                  </li>
+                  <li>
+                    <Link className="dropdown-item" to="#">
+                      Keral Lang
+                    </Link>
+                  </li>
+                  <li>
+                    <hr className="dropdown-divider" />
+                  </li>
+                  <li>
+                    <Link className="dropdown-item" to="#">
+                      Log Out
+                    </Link>
+                  </li>
+                </ul>
+              </li>
+            </ul>

@@ -1,0 +1,21 @@
+.card-title{
+    font-size: 1rem;
+    height:100%;
+    border-bottom: 3px solid lightgray;
+}
+.card-source{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 3px solid lightgray;
+    /* align-items: ; */
+}
+.card-source p{
+    font-size: 0.7rem;
+    /* display: flex;
+    justify-content: space-between; */
+}
+.card-text{
+    font-size: 0.8rem;
+    height: 200px;
+}
+
